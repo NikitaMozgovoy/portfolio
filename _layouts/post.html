@@ -1,0 +1,14 @@
+---
+layout: default
+custom_css: 
+    - post
+---
+<!-- {{page.date}} -->
+
+<div>
+{{page  .title}}
+{{page.content}}
+{% for category in page.categories %}
+    {{category}}
+{% endfor %}
+</div>
