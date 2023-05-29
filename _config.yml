@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+permalink: /:categories/:title
+
 title: Портфолио Мозгового Никиты
 email: nikitafeodosia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

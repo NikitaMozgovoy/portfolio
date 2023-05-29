@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Информационные технологии в математике"
+date:   2023-05-28 14:53:45 +0300
+course: 1
+categories: 1st-year
+---
+
+В процессе изучения курса познакомились со способами автоматизации математических вычислений в табличном процессоре и программме Maxima
+
+<div>
+    <p><a href="https://docs.google.com/spreadsheets/d/1vAtV68PX7s_Vt9g88hYWXOr_DePVcEea/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №1</a></p>
+    <p><a href="https://docs.google.com/spreadsheets/d/1B8P0ObjIaA43Y0JwnajVpUM97O_pNHMQ/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №2</a></p>
+    <p><a href="https://drive.google.com/file/d/1JPyXdrdRxRe1Jl8v2fBTo29cNekPyp7i/view?usp=sharing">Лабораторная работа №3.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1Pq2_CPamb74FRSo7U6Yf3X_n4bmt__AV/view?usp=sharing">Лабораторная работа №3.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1Ih4SJ-e8U4rgwjrVbQe0yQTUUjngr9wK/view?usp=sharing">Лабораторная работа №3.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1XfEhvOfcGKu2vVNr0aykgP0BVksvuth_/view?usp=sharing">Лабораторная работа №3.4</a></p>
+    <p><a href="https://drive.google.com/file/d/13dzFDknzulRn_wkTedeRNgi-dCLIw5rj/view?usp=sharing">Лабораторная работа №4.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1fXyeBS6bxS_RPsiXA4UWFH3FwWG_FPMG/view?usp=sharing">Лабораторная работа №4.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1hmglaiBVMrwx-_SL3O8kWVTc66n6qZq-/view?usp=sharing">Лабораторная работа №4.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1kZqqLsFV5XfNzy2rmrxmPQgHq3EHsIWz/view?usp=sharing">Лабораторная работа №4.4</a></p>
+    <p><a href="https://drive.google.com/file/d/1Xk1Z2LAQoT3cgq4pM6Hpoi3QxQswTrbY/view?usp=sharing">Лабораторная работа №5</a></p>
+    <p><a href="https://drive.google.com/file/d/18vVRJQSaVxaUcJtgDKYPNMrrGG1m0RLM/view?usp=sharing">Лабораторная работа №5.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1qygyLNvLxQPiosQe4LaKAZUOPxTvc_UE/view?usp=sharing">Лабораторная работа №5.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1HFdbSs-AdjrUX_6gx7WN34kTktPVEhkw/view?usp=sharing">Лабораторная работа №5.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1C-zQtEXRauBvwnsyTNoYYFU4qoeT9fLs/view?usp=sharing">Лабораторная работа №6.1</a></p>
+    <p><a href="https://drive.google.com/file/d/12rI7xpygRRjqebE2gpbIZ_o9ly7HBWnO/view?usp=sharing">Лабораторная работа №6.2</a></p>
+    <p><a href="https://drive.google.com/file/d/11LLhXqQ_n95U2A73CK4_mmF6bKGNRL1b/view?usp=sharing">Лабораторная работа №6.3</a></p>
+    <p><a href="https://docs.google.com/spreadsheets/d/1_jV139vi_qUQkQNjvcFvLiLmokUbri4u/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Инвариантная самостоятельная работа по матрицам</a></p>
+    <p><a href="https://docs.google.com/spreadsheets/d/11GVGYV3vup44zTzJihM9gI2r6OrY87g0/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Инвариантная самостоятельная работа по графикам</a></p>
+    <p><a href="https://docs.google.com/document/d/1dk_dTSw38Km0FrO0EO12rHW6Ym8Lb8QX/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Инвариантная самостоятельная работа №1</a></p>
+    <p><a href="https://docs.google.com/presentation/d/1fdYaADLNyWmR8RKIoFEszrxkgP6MUiND/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Инвариантная самостоятельная работа №2.5</a></p>
+    <p><a href="https://drive.google.com/file/d/142-l93w9UeBbgxHUbr_iG97cgzxLQBcr/view?usp=sharing">Инвариантная самостоятельная работа №3.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1TDBPUQEuvwb-vy8XAowbyd90FffKod-u/view?usp=sharing">Инвариантная самостоятельная работа №3.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1S70LHxNccG2oWCc0CR6uzk8WlPqUv7Zt/view?usp=sharing">Инвариантная самостоятельная работа №3.3</a></p>
+    <p><a href="https://docs.google.com/document/d/1tCL6inu7tmhutEwQrf_MbXtQkxBB9rIh/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Инвариантная самостоятельная работа №3.4</a></p>
+    <p><a href="https://drive.google.com/file/d/1b44i-uvG_0Saas_V0nJ5CrdgpNj4onod/view?usp=sharing">Инвариантная самостоятельная работа №3.5</a></p>
+    <p><a href="https://drive.google.com/file/d/1UUuqCBnHXV3CiX0P0yCpdYuT5Slnzkdd/view?usp=sharing">Инвариантная самостоятельная работа №4.1</a></p>
+    <p><a href="https://drive.google.com/file/d/16WrJpXGqD5Z0VDg28ek_hFZEMi51Qflp/view?usp=sharing">Инвариантная самостоятельная работа №4.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1Os-wCtvvpo6png998-l-06n-hTXqGGm0/view?usp=sharing">Инвариантная самостоятельная работа №4.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1swrUslPTq8en73mueBCIs996lzKLqt4I/view?usp=sharing">Инвариантная самостоятельная работа №4.4</a></p>
+    <p><a href="https://drive.google.com/file/d/1Le4AyDNIp3Z_5VvhWe9lBdw9Dohp7ija/view?usp=sharing">Инвариантная самостоятельная работа №5.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1jk5c-43FGvQAP69LqetqGLBwYLpJD2Fm/view?usp=sharing">Инвариантная самостоятельная работа №5.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1qoFvdjy6ft3gVsPghbOEBgDlnPqoedm0/view?usp=sharing">Инвариантная самостоятельная работа №5.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1ZOrRqYl-pu8l8RH1nF-lvaJdB0Gp2fPb/view?usp=sharing">Инвариантная самостоятельная работа №5.4</a></p>
+    <p><a href="https://drive.google.com/file/d/1ja2nFdGY3a8Hg3loYvz0o4mcegsbB4cW/view?usp=sharing">Инвариантная самостоятельная работа №6.1</a></p>
+    <p><a href="https://drive.google.com/file/d/1pr0Oco2_nGYfkX7n2Ac-tQvO0f4Tg9vN/view?usp=sharing">Инвариантная самостоятельная работа №6.2</a></p>
+    <p><a href="https://drive.google.com/file/d/1Sf8t19EmZOJ3Sn2johRJGH26s8ecIzvM/view?usp=sharing">Инвариантная самостоятельная работа №6.3</a></p>
+    <p><a href="https://docs.google.com/document/d/1mC1virz0yNgIBD1gwg0NElGvHfxWm1Xs/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №1.1</a></p>
+    <p><a href="https://docs.google.com/document/d/1SXRCqQGDgTSIfLOhx_KuOD_7MZXMGXUf/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №2.1</a></p>
+    <p><a href="https://docs.google.com/document/d/1NYhbJypFAVEZj_pjUe_x2Jbc4236SJh8/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №3.1</a></p>
+    <p><a href="https://docs.google.com/document/d/1MoA4Db-8Z8MV-4HA0C5CBcWZuSXqk616/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №3.3</a></p>
+    <p><a href="https://docs.google.com/presentation/d/12U_hQBZOmVWW8nRvJL12nqiEcxtB-tH2/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №4.1</a></p>
+    <p><a href="https://docs.google.com/document/d/1Uf0Q45Q0vWe2Q0UjGrsb0iqursYrAcvK/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №4.3</a></p>
+    <p><a href="https://drive.google.com/file/d/1SEsSne4_11kz_5jvVsTDk4KbV48qq2a4/view?usp=sharing">Вариативная самостоятельная работа №4.5</a></p>
+    
+</div>

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Информационные технологии"
+date:   2023-05-28 14:53:45 +0300
+course: 1
+categories: 1st-year
+---
+
+В ходе изучения курса было произведено знакомство с различными видами предствления информации и ГОСТами по ним
+
+<div>
+    <p><a href="https://docs.google.com/document/d/16bp3cGkcBTCPJgQqPTo2zam7mxUfZHm5/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №4.1.1</a></p>
+    <p><a href="https://docs.google.com/document/d/1COOMbgQTHUQEg1oVH1Z1lkr6fNyp3aj9/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №4.1.3</a></p>
+    <p><a href="https://docs.google.com/document/d/1i6S7hZNMVgS9DYjq3xaTQgaTXAQHSsbm/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №4.2</a></p>
+    <p><a href="https://docs.google.com/spreadsheets/d/1-dYKdmD-igVyAHP94TuIu_BiPXgoQPbm/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №6</a></p>
+    <p><a href="https://drive.google.com/file/d/1PxHfgUKGE6pAEiWWWnfaaRrqlgtzSQuV/view?usp=sharing">Лабораторная работа №10.2</a></p>
+    <p><a href="https://drive.google.com/drive/folders/1K5EeWLQL88N5FXqOVjaPyrsnziVzGG-f?usp=sharing">Лабораторная работа о работе с фото</a></p>
+    <p><a href="https://drive.google.com/drive/folders/1rVPGgHt4hiPoyry7hLLhbAEQJ1b9TLms?usp=sharing">Семинар</a></p>
+</div>
