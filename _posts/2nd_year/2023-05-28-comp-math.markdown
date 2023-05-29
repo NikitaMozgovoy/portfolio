@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Вычислительная математика"
+date:   2023-05-28 14:53:45 +0300
+course: 2
+categories: 2nd-year
+---
+
+<div>
+    <p><a href="https://docs.google.com/document/d/16BEFezpGcZR4r6MyKqlowd3QafDMsenE/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №1</a></p>
+    <p><a href="https://github.com/NikitaMozgovoy/comp-math/blob/main/lr1.py">Лабораторная работа №1. Код</a></p>
+    <p><a href="https://docs.google.com/document/d/1vsCrU6bKno1diflqyOUusz_d-I4aaO3o/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №2</a></p>
+    <p><a href="https://github.com/NikitaMozgovoy/comp-math/blob/main/lr2.py">Лабораторная работа №2. Код</a></p>
+    <p><a href="https://docs.google.com/document/d/1YDzwJZbGmA_4F50f9hgn9VWlce5TyFDf/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №3</a></p>
+    <p><a href="https://github.com/NikitaMozgovoy/comp-math/tree/main/lr3">Лабораторная работа №3. Код</a></p>
+    <p><a href="https://docs.google.com/document/d/1KK7M9SvuqQoYECLJIkM-yurVemiovPhJ/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №4</a></p>
+    <p><a href="https://github.com/NikitaMozgovoy/comp-math/tree/main/lr4">Лабораторная работа №4. Код</a></p>
+    <p><a href="https://docs.google.com/document/d/1y7mUk0GEh6BcgRtV07_qGurzPsqsdrsS/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Лабораторная работа №5</a></p>
+</div>

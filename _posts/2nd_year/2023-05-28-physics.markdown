@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Физика"
+date:   2023-05-28 14:53:45 +0300
+course: 2
+categories: 2nd-year
+---
+ 
+Во время изучения курса физики были рассмотрены как теоретические, так и посредством проведения лабораторных работ практические аспекты науки.
+
+<div>
+    <p><a href="https://drive.google.com/file/d/1R7Y8hWWuXyvyoRRiGpS4VwhEYjKMj0CL/view?usp=sharing">Лабораторная работа №1</a></p>
+    <p><a href="https://drive.google.com/file/d/1K-0QSh4if-X35bNLVTKICIfZQvnBgaRF/view?usp=sharing">Лабораторная работа №2</a></p>
+    <p><a href="https://drive.google.com/file/d/1B96fbmPZObC0AfkUqspHqxHitlBB6Dcu/view?usp=sharing">Лабораторная работа №3</a></p>
+    <p><a href="https://drive.google.com/file/d/10-EH7nuAWzYkUXUeiCPvR7wnwaqFkvRS/view?usp=sharing">Лабораторная работа №4</a></p>
+    <p><a href="https://drive.google.com/file/d/1ps_RXt3Wa9iGpuldS2ssEUg6KdhXWZa7/view?usp=sharing">Лабораторная работа №5</a></p>
+    <p><a href="https://drive.google.com/file/d/1VBHapygpFLQop7OFtZfL0hyVz6EovRFL/view?usp=sharing">Лабораторная работа №6</a></p>
+<div>
