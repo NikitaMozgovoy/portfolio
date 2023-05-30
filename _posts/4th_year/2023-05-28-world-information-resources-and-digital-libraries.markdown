@@ -30,6 +30,4 @@ categories: 4th-year
     <p><a href="https://docs.google.com/document/d/14I355YZeon32ZJbBJvkZPK9f5YTpphAZ/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №9</a></p>
     <p><a href="https://time.graphics/line/47351c87ad22d10d876fd641c4854170 ">Вариативная самостоятельная работа №10</a></p>
     <p><a href="https://docs.google.com/document/d/1qXqU-eNWeKm2OSyU0ScpIJodFZhQDcbn/edit?usp=sharing&ouid=110261998997303460169&rtpof=true&sd=true">Вариативная самостоятельная работа №11</a></p>
-    <p><a href="">Вариативная самостоятельная работа №</a></p>
-    <p><a href="">Вариативная самостоятельная работа №</a></p>
 </div>

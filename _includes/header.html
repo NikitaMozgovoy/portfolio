@@ -58,6 +58,18 @@
                 {% endif %}
             {% endfor %}
         </ul>
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+          Проекты
+        </button>
+        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton1">
+            {% for post in site.posts %}
+                {% if post.course == 0 %}
+                <li>
+                    <a class="dropdown-item" href="{{ post.url | relative_url}}">{{ post.title }}</a>
+                </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
       </div>
 
     </div>
